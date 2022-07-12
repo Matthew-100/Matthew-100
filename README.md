@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Outside of work, I'm currently working on a little app that will present Daylio's .csv mood data nicely.
+Outside of work, I'm currently working on...
 
 <!--
 **Matthew-100/Matthew-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
